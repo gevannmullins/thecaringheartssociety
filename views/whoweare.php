@@ -180,6 +180,7 @@
                     "Let us unite in our commitment to make a positive impact on our communities, driven by
                     compassion, empathy, and the belief that together, we can create meaningful change."
                   </p>
+                  <br><br>
                 </div>
               </div>
 
@@ -202,6 +203,7 @@
                   integrity, and a steadfast commitment to serving those in need. 
                   Together, let's amplify our impact and uplift the voices of the marginalized."
                   </p>
+                  <br>
                 </div>
               </div>
 
@@ -230,6 +232,7 @@
 
             </article>
           </div>
+          <!--
           <div class="col-xs-12 col-md-4 col-lg-4 text-center">
             <article class="widget">
 
@@ -253,6 +256,7 @@
 
             </article>
           </div>
+          -->
           <div class="col-xs-12 col-md-4 col-lg-4 text-center">
             <article class="widget">
 
@@ -269,7 +273,6 @@
                   "As Secretary, I am dedicated to ensuring smooth operations and effective communication within our organization. 
                   With attention to detail and organizational prowess, let's navigate administrative tasks seamlessly, 
                   empowering our team to focus on our mission of creating positive change."
-
                   </p>
                 </div>
               </div>
@@ -315,6 +318,8 @@
                   celebrate achievements, and address any challenges that arise. 
                   Adjust our strategies as necessary to stay on track."
                   </p>
+                  <br>
+                  <br>
                 </div>
               </div>
 

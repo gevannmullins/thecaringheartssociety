@@ -30,6 +30,9 @@ get('/campaign/soup_drive_15_03_2024', 'campaigns/soup_drive_15_03_2024/index.ph
 get('/campaign/baby_drive_16_03_2024', 'campaigns/baby_drive_16_03_2024/index.php');
 get('/campaign/soup_drive_23_03_2024', 'campaigns/soup_drive_23_03_2024/index.php');
 get('/campaign/boeber_time_26_03_2024', 'campaigns/boeber_time_26_03_2024/index.php');
+get('/campaign/sandwich_drive_18_04_2024', 'campaigns/sandwich_drive_18_04_2024/index.php');
+get('/campaign/blanket_drive_21_04_2024', 'campaigns/blanket_drive_21_04_2024/index.php');
+get('/campaign/sanitary_drive_11_05_2024', 'campaigns/sanitary_drive_11_05_2024/index.php');
 
 // Dynamic GET. Example with 1 variable
 // The $id will be available in user.php

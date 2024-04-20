@@ -154,6 +154,76 @@
               </article>
             </a>
           </div>
+
+          <div class="col-sm-12 col-md-3 text-center">
+            <a href="/campaign/sandwich_drive_18_04_2024">
+              <article class="widget">
+                <div class="container-fluid">
+                  <div class="row">
+                    <div class="col-xs-12 text-center">
+                      <img src="./campaigns/sandwich_drive_18_04_2024/sandwich_drive_logo.jpg" class="img-responsive"
+                        style="height:200px;" alt="Image">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-4 text-right">Title:</div>
+                    <div class="col-xs-8 text-left">Sandwich Drive</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-4 text-right">Date:</div>
+                    <div class="col-xs-8 text-left">18/03/2024</div>
+                  </div>
+                </div>
+              </article>
+            </a>
+          </div>
+
+          <div class="col-sm-12 col-md-3 text-center">
+            <a href="/campaign/blanket_drive_21_04_2024">
+              <article class="widget">
+                <div class="container-fluid">
+                  <div class="row">
+                    <div class="col-xs-12 text-center">
+                      <img src="./campaigns/blanket_drive_21_04_2024/blanket_drive_logo.jpg" class="img-responsive"
+                        style="height:200px;" alt="Image">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-4 text-right">Title:</div>
+                    <div class="col-xs-8 text-left">Blanket Drive</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-4 text-right">Date:</div>
+                    <div class="col-xs-8 text-left">21/04/2024</div>
+                  </div>
+                </div>
+              </article>
+            </a>
+          </div>
+
+          <div class="col-sm-12 col-md-3 text-center">
+            <a href="/campaign/sanitary_drive_11_05_2024">
+              <article class="widget">
+                <div class="container-fluid">
+                  <div class="row">
+                    <div class="col-xs-12 text-center">
+                      <img src="./campaigns/sanitary_drive_11_05_2024/sanitary_drive_logo.jpg" class="img-responsive"
+                        style="height:200px;" alt="Image">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-4 text-right">Title:</div>
+                    <div class="col-xs-8 text-left">Sanitary Drive</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-4 text-right">Date:</div>
+                    <div class="col-xs-8 text-left">11/05/2024</div>
+                  </div>
+                </div>
+              </article>
+            </a>
+          </div>
+
         </div>
       </div>
     </div>

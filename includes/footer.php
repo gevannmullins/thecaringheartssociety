@@ -14,7 +14,7 @@
           </div>
           <div class="col-xs-6 text-right">
             <a target=”_blank” href="https://www.facebook.com/TheCaringHeartsSociety1"><img src="https://thecaringheartssociety.co.za/assets/facebook_logo.png" height="40" /></a>
-            <a target=”_blank” href="https://www.instagram.com/_thecaringheartssociety?igsh=ODl6Nm16d3hvbzA%3D&utm_source=qr"><img src="https://thecaringheartssociety.co.za/assets/instagram_logo.png" height="40" /></a>
+            <a target=”_blank” href="https://www.instagram.com/the_caring_hearts_society0101?igsh=MTl2NHdlMjlhdjAzZQ=="><img src="https://thecaringheartssociety.co.za/assets/instagram_logo.png" height="40" /></a>
             <a target=”_blank” href="https://wa.me/27680380383"><img src="https://thecaringheartssociety.co.za/assets/whatsapp_logo.png" height="40" /></a>
           </div>
         </div>

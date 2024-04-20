@@ -114,7 +114,7 @@ if (!empty($_POST)) {
                   <img src="https://thecaringheartssociety.co.za/assets/instagram_logo.png" height="40" />
                   </div>
                   <div class="col-xs-8 text-left">
-                  <a href="https://www.instagram.com/_thecaringheartssociety?igsh=ODl6Nm16d3hvbzA%3D&utm_source=qr">https://www.instagram.com/_thecaringheartssociety</a>
+                  <a href="https://www.instagram.com/the_caring_hearts_society0101?igsh=MTl2NHdlMjlhdjAzZQ==">https://www.instagram.com/the_caring_hearts_society0101</a>
                   </div>
                 </div>
               </div>

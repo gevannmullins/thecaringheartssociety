@@ -40,6 +40,20 @@
               We look forward to our next Campaign!
             </p>
           </div>
+          <div class="col-xs-12 col-md-12">
+            <br>
+            <br>
+          <p>
+          بسم الله الرحمن الرحيم 
+          On behalf of the Darun Naim Home, we just want to express our heartfelt gratitude for the goodies
+          received alghamdu lillaahi.
+          The Prophet of Allah (SAW) mentioned in a Hadith: He who does not thank people, does not thank Allah" 
+          We hope this is a start of a beautiful relationship between our organizations, ameen.
+          May your organization go from strength to strength, ameen insha Allah.
+          Ramdhaan Kareem and Mubarak to all of use.
+          Ma 'salaam
+          </p>
+          </div>
         </div>
       </div>
 
